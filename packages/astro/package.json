@@ -44,7 +44,7 @@
     "@tutorialkit/theme": "workspace:*",
     "@tutorialkit/types": "workspace:*",
     "@types/react": "^18.3.3",
-    "@unocss/reset": "^0.62.2",
+    "@unocss/reset": "^0.65.4",
     "@webcontainer/api": "1.5.1",
     "astro": "^4.15.0",
     "astro-expressive-code": "^0.35.3",
