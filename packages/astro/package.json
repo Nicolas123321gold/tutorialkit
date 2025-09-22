@@ -62,7 +62,7 @@
     "unified": "^11.0.5",
     "unist-util-visit": "^5.0.0",
     "unocss": "^0.59.4",
-    "zod": "3.23.8"
+    "zod": "3.25.76"
   },
   "devDependencies": {
     "@tutorialkit/types": "workspace:*",
